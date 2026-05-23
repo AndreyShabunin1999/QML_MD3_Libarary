@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>QML/Controls/Button.qml</file>
+        <file>QML/Theme.qml</file>
+        <file>QML/Assets/MaterialIconsRound-Regular.otf</file>
+        <file>QML/Controls/CheckBox.qml</file>
+        <file>QML/Controls/Ripple.qml</file>
+        <file>QML/Controls/Switch.qml</file>
+        <file>QML/Controls/SnackBar.qml</file>
+        <file>QML/Controls/IconButton.qml</file>
+        <file>QML/Controls/RadioButton.qml</file>
+        <file>QML/Controls/TextField.qml</file>
+        <file>QML/Controls/ToolTip.qml</file>
+        <file>QML/Controls/SegmentedButton.qml</file>
+        <file>QML/Controls/TopAppBar.qml</file>
+        <file>QML/Controls/TimePicker.qml</file>
+        <file>QML/Controls/Dialog.qml</file>
+        <file>QML/Controls/Chip.qml</file>
+        <file>QML/Controls/CircularProgress.qml</file>
+        <file>QML/Controls/ColorPicker.qml</file>
+        <file>QML/Controls/Slider.qml</file>
+        <file>QML/Controls/BlurCard.qml</file>
+        <file>QML/Controls/FAB.qml</file>
+        <file>QML/Controls/FabMenu.qml</file>
+        <file>QML/Controls/Card.qml</file>
+        <file>QML/Controls/Carousel.qml</file>
+        <file>QML/Controls/LoadingIndicator.qml</file>
+        <file>QML/Controls/LinearProgress.qml</file>
+        <file>QML/Controls/IndexBackground.qml</file>
+        <file>QML/Controls/ComboBox.qml</file>
+        <file>QML/Controls/Menu.qml</file>
+        <file>QML/Controls/ScrollBar.qml</file>
+        <file>QML/Controls/SideSheet.qml</file>
+        <file>QML/Controls/Tabs.qml</file>
+        <file>QML/Controls/DataTable.qml</file>
+        <file>QML/Controls/NavigationBar.qml</file>
+        <file>QML/Controls/NavigationDrawer.qml</file>
+        <file>QML/Controls/NavigationRail.qml</file>
+        <file>QML/Controls/BreadCrumb.qml</file>
+        <file>QML/Controls/CanvasBarChart.qml</file>
+        <file>QML/Controls/CanvasLineChart.qml</file>
+        <file>QML/Controls/CanvasPieChart.qml</file>
+    </qresource>
+</RCC>
