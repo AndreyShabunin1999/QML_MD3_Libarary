@@ -1,5 +1,3 @@
-# QML MD3 Library
-
 A modern **Material Design 3** component library for **Qt/QML**.
 
 Built fully in **Qt Quick / QML**, focused on reusable components, theming, animations, and cross-platform UI development.
@@ -10,16 +8,11 @@ Built fully in **Qt Quick / QML**, focused on reusable components, theming, anim
 
 > Full component showcase included (`main.qml`)
 
-Add screenshots here:
-
-```md
-![Preview 1](docs/preview_1.png)
-![Preview 2](docs/preview_2.png)
-![Preview 2](docs/preview_3.png)
-![Preview 2](docs/preview_4.png)
-```
-
----
+Screenshots:
+<img width="1922" height="1204" alt="preview_1" src="https://github.com/user-attachments/assets/4d22a99d-c9e0-4776-a1e7-c0c2d7b5c2f4" />
+<img width="1922" height="1204" alt="preview_2" src="https://github.com/AndreyShabunin1999/QML_MD3_Libarary/blob/main/docs/preview_2.png" />
+<img width="1922" height="1204" alt="preview_3" src="https://github.com/AndreyShabunin1999/QML_MD3_Libarary/blob/main/docs/preview_3.png" />
+<img width="1922" height="1204" alt="preview_4" src="https://github.com/AndreyShabunin1999/QML_MD3_Libarary/blob/main/docs/preview_4.png" />
 
 # Features
 
